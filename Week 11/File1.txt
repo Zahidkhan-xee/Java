@@ -1,3 +1,1 @@
-		FILE1.txt
-************************************************
-Hello, I am in File 1.
+Hello how are you?
